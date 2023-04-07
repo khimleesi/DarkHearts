@@ -1,0 +1,14 @@
+#Ignore Directories
+sprites/
+tonclib/
+
+#Ignore Extensions
+*.elf
+*.map
+*.o
+*.gba
+*.pnproj
+*.pnps
+
+#Ignore Files
+Makefile
